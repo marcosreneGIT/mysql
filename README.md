@@ -1,2 +1,2 @@
-# sql
+# Curso básico e introdutório de MySQL
  
