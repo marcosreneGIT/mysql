@@ -1,0 +1,1 @@
+select max(salary), min(salary), avg(salary), sum(salary), count(salary) from users u;
